@@ -1,1 +1,1 @@
-# Bharat_intern_ML_task2
+# Wine quality prediction
